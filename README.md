@@ -78,9 +78,9 @@ This project analyzes Amazon sales transaction data using Microsoft Excel and Py
 
 ## 📂 Project Files
 
-- AMAZON DASHBOARD.xlsx
-- Amazon_Sales.xlsx
-- scratchpad.ipynb
+- Amazon_dashboard.xlsx
+- Amazon_dataset.xlsx
+- Amazon_sales.ipynb
 - dashboard.png
 
 ---
